@@ -6,9 +6,9 @@ By [Jia Rui](), [Yan Niu](), [Qiupeng Wang](), [Wei Zhang](), [Zhiwei Chen](), [
 
 ## Data
 
-The data in the folder  [./CONV_19](https://github.com/zhiweichen0012/Containing-the-transmission-of-COVID-19/tree/master/CONV_19) is operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL).
+The data in the folder  [./CONV_19](https://github.com/CSSEGISandData/COVID-19/tree/0689091b310b6d1a8884f7d19fa7a0f35772ac52) is operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL).
 
-**DATA SOURCES:** This list includes a complete list of all sources ever used in the data set, since January 21, 2010. Some sources listed here (e.g. ECDC, US CDC, BNO News) are not currently relied upon as a source of data. (Please see  [CONV_19](https://github.com/zhiweichen0012/Containing-the-transmission-of-COVID-19/tree/master/CONV_19) for details.)
+**DATA SOURCES:** This list includes a complete list of all sources ever used in the data set, since January 21, 2010. Some sources listed here (e.g. ECDC, US CDC, BNO News) are not currently relied upon as a source of data. (Please see  [CONV_19](https://github.com/CSSEGISandData/COVID-19/tree/0689091b310b6d1a8884f7d19fa7a0f35772ac52) for details.)
 
 
 
