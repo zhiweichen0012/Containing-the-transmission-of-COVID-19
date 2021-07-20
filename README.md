@@ -3,6 +3,8 @@
 By [Jia Rui](), [Yan Niu](), [Qiupeng Wang](), [Wei Zhang](), [Zhiwei Chen](), [Zeyu Zhao](), [Shengnan Lin](), [Yuanzhao Zhu](), [Yao Wang](), [Jingwen Xu](), [Xingchun Liu](), [Meng Yang](), [Wei Zheng](), [Kaixin Chen](), [Yilan Xia](), [Lijuan Xu](), [Rongrong Ji](), [Taisong Jin](), [Yong Chen](), [Benhua Zhao](), [Yanhua Su](), [Tie Song](), [Guoqing Hu](), [Tianmu Chen]().
 
 
+The paper has been accepted in Frontiers in Medicine, section Infectious Diseases – Surveillance, Prevention and Treatment.
+
 
 ## Data
 
